@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-21",
+  "personalDefault": {
+    "key": "personal",
+    "displayName": "Personal default",
+    "source": "user-provided",
+    "suppliedAt": "2026-10-21",
+    "path": "profiles/personal/065fe1f798f98fc61dc4b0a312bd074617a8553f7350b0581a92ce80683e1fce.png",
+    "sha256": "065fe1f798f98fc61dc4b0a312bd074617a8553f7350b0581a92ce80683e1fce",
+    "contentType": "image/png",
+    "width": 334,
+    "height": 388,
+    "bytes": 7045,
+    "preserveOriginal": true
+  }
+}
