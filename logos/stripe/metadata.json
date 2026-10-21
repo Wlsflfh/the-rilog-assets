@@ -1,0 +1,21 @@
+{
+  "key": "stripe",
+  "displayName": "Stripe",
+  "officialSource": "https://stripe.com/newsroom/brand-assets",
+  "originalAssetUrl": "https://assets.stripeassets.com/fzn2n1nzq965/7q0dJGs6fRS1LRmMpChoAF/87def4edfbb7fd5aef4ab9baf904b2db/Stripe_logo_kit.zip",
+  "archiveMember": "asset-wordmark/Stripe wordmark - Blurple.svg",
+  "variant": "Official Blurple corporate wordmark standalone SVG.",
+  "path": "logos/stripe/4448c4b4f954285d2b2aeb6d92391c85fdc290e008c2679d2c006d6d72ae1ae9.svg",
+  "source": "official-company",
+  "sha256": "4448c4b4f954285d2b2aeb6d92391c85fdc290e008c2679d2c006d6d72ae1ae9",
+  "bytes": 2139,
+  "width": 360.0,
+  "height": 150.0,
+  "contentType": "image/svg+xml",
+  "preserveOriginal": true,
+  "originalHttpStatus": 200,
+  "originalVerifiedAt": "2026-10-21",
+  "visuallyVerified": true,
+  "runtimeImageValidation": "passed",
+  "sourcePage": "https://stripe.com/newsroom/brand-assets"
+}

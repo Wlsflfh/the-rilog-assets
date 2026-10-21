@@ -1,0 +1,22 @@
+{
+  "key": "kurly",
+  "displayName": "컬리",
+  "officialSource": "https://newsroom.kurlycorp.com/%ED%9A%8C%EC%82%AC%EC%86%8C%EA%B0%9C/",
+  "originalAssetUrl": "https://newsroom.kurlycorp.com/wp-content/themes/Kurly/assets/images/kurly-sig.svg",
+  "extraction": "Original PNG image bytes decoded from the SVG image data URI. No pixel changes, no recoloring, no rasterization. SVG wrapper embeds only this PNG and was not published because runtime rejects embedded data references.",
+  "variant": "Purple Kurly company wordmark; official company introduction, distinct from MarketKurly service label.",
+  "path": "logos/kurly/436f0698ebdb4795ec313f1d0a687b932cde0dec0d1b75ab8f46271b8ef042a3.png",
+  "source": "official-company",
+  "sha256": "436f0698ebdb4795ec313f1d0a687b932cde0dec0d1b75ab8f46271b8ef042a3",
+  "bytes": 8463,
+  "width": 280,
+  "height": 138,
+  "colorType": 6,
+  "contentType": "image/png",
+  "preserveOriginal": true,
+  "originalHttpStatus": 200,
+  "originalVerifiedAt": "2026-10-21",
+  "visuallyVerified": true,
+  "runtimeImageValidation": "passed",
+  "sourcePage": "https://newsroom.kurlycorp.com/%ED%9A%8C%EC%82%AC%EC%86%8C%EA%B0%9C/"
+}

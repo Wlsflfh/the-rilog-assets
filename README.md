@@ -30,3 +30,8 @@ Company names and logos remain the property of their respective owners. User-sup
 | 우아한형제들 | <img src="logos/woowahan/776a55ceac89154ce889f80829556900d3abdc76d52873c3118e7157ab347d71.png" width="100" alt="우아한형제들"> |
 | 뱅크샐러드 | <img src="logos/banksalad/fb6535f265ba3378374654379adda0a46816edb4477c85c2227dbdb9924c7002.png" width="100" alt="뱅크샐러드"> |
 | Anthropic | <img src="logos/anthropic/13b6dff45386bc3a5f5cd81bb65ec7a9bcb0a2cda9e199ea7e03477ab92dc489.png" width="100" alt="Anthropic"> |
+| 컬리 | <img src="logos/kurly/436f0698ebdb4795ec313f1d0a687b932cde0dec0d1b75ab8f46271b8ef042a3.png" width="100" alt="컬리"> |
+| 하이퍼커넥트 | <img src="logos/hyperconnect/8cfba2259e87c8d345bb19ad3f4b3a7cfece0292c1c677205e5795ee9b36256b.png" width="100" alt="하이퍼커넥트"> |
+| Cloudflare | <img src="logos/cloudflare/2b0c5101a8b933fb15316bce8989607d014517abbdaed2e48997d2779b9cf71d.svg" width="100" alt="Cloudflare"> |
+| GitHub | <img src="logos/github/b5e2f4b3f953f075de7016faa952d6ce3ec7492aa7b32408505ec25857962d89.svg" width="100" alt="GitHub"> |
+| Stripe | <img src="logos/stripe/4448c4b4f954285d2b2aeb6d92391c85fdc290e008c2679d2c006d6d72ae1ae9.svg" width="100" alt="Stripe"> |

@@ -1,0 +1,20 @@
+{
+  "key": "cloudflare",
+  "displayName": "Cloudflare",
+  "officialSource": "https://www.cloudflare.com/press/press-kit/",
+  "originalAssetUrl": "https://cf-assets.www.cloudflare.com/dzlvafdwdttg/69wNwfiY5mFmgpd9eQFW6j/d5131c08085a977aa70f19e7aada3fa9/1pixel-down__1_.svg",
+  "variant": "Official full-color company logo and black wordmark from press-kit header, standalone SVG.",
+  "path": "logos/cloudflare/2b0c5101a8b933fb15316bce8989607d014517abbdaed2e48997d2779b9cf71d.svg",
+  "source": "official-company",
+  "sha256": "2b0c5101a8b933fb15316bce8989607d014517abbdaed2e48997d2779b9cf71d",
+  "bytes": 4633,
+  "width": 239.0,
+  "height": 54.0,
+  "contentType": "image/svg+xml",
+  "preserveOriginal": true,
+  "originalHttpStatus": 200,
+  "originalVerifiedAt": "2026-10-21",
+  "visuallyVerified": true,
+  "runtimeImageValidation": "passed",
+  "sourcePage": "https://www.cloudflare.com/press/press-kit/"
+}

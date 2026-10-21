@@ -1,0 +1,21 @@
+{
+  "key": "github",
+  "displayName": "GitHub",
+  "officialSource": "https://brand.github.com/foundations/logo",
+  "originalAssetUrl": "https://brand.github.com/GitHub_Logos.zip",
+  "archiveMember": "GitHub Logos/SVG/GitHub_Invertocat_Black_Clearspace.svg",
+  "variant": "Current black Invertocat company mark with official clear space; not deprecated Octocat or Copilot logo.",
+  "path": "logos/github/b5e2f4b3f953f075de7016faa952d6ce3ec7492aa7b32408505ec25857962d89.svg",
+  "source": "official-company",
+  "sha256": "b5e2f4b3f953f075de7016faa952d6ce3ec7492aa7b32408505ec25857962d89",
+  "bytes": 1313,
+  "width": 128.0,
+  "height": 128.0,
+  "contentType": "image/svg+xml",
+  "preserveOriginal": true,
+  "originalHttpStatus": 200,
+  "originalVerifiedAt": "2026-10-21",
+  "visuallyVerified": true,
+  "runtimeImageValidation": "passed",
+  "sourcePage": "https://brand.github.com/foundations/logo"
+}
