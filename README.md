@@ -35,3 +35,5 @@ Company names and logos remain the property of their respective owners. User-sup
 | Cloudflare | <img src="logos/cloudflare/2b0c5101a8b933fb15316bce8989607d014517abbdaed2e48997d2779b9cf71d.svg" width="100" alt="Cloudflare"> |
 | GitHub | <img src="logos/github/b5e2f4b3f953f075de7016faa952d6ce3ec7492aa7b32408505ec25857962d89.svg" width="100" alt="GitHub"> |
 | Stripe | <img src="logos/stripe/4448c4b4f954285d2b2aeb6d92391c85fdc290e008c2679d2c006d6d72ae1ae9.svg" width="100" alt="Stripe"> |
+| AWS | <img src="logos/aws/1813139a838237772fe548f337df8c82a6ec0c40e071491fd18d7600137b3224.png" width="100" alt="AWS"> |
+| 11번가 | <img src="logos/11st/22222ff40ca2864193955e523361105497ebae861cc523522bbba061cfebb539.png" width="100" alt="11번가"> |

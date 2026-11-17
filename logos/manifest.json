@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-21",
+  "updatedAt": "2026-11-17",
   "logos": [
     {
       "key": "openai",
@@ -270,6 +270,32 @@
       "visuallyVerified": true,
       "runtimeImageValidation": "passed",
       "sourcePage": "https://stripe.com/newsroom/brand-assets"
+    },
+    {
+      "key": "aws",
+      "displayName": "AWS",
+      "source": "user-provided",
+      "suppliedAt": "2026-11-17",
+      "path": "logos/aws/1813139a838237772fe548f337df8c82a6ec0c40e071491fd18d7600137b3224.png",
+      "sha256": "1813139a838237772fe548f337df8c82a6ec0c40e071491fd18d7600137b3224",
+      "contentType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 306617,
+      "preserveOriginal": true
+    },
+    {
+      "key": "11st",
+      "displayName": "11번가",
+      "source": "user-provided",
+      "suppliedAt": "2026-11-17",
+      "path": "logos/11st/22222ff40ca2864193955e523361105497ebae861cc523522bbba061cfebb539.png",
+      "sha256": "22222ff40ca2864193955e523361105497ebae861cc523522bbba061cfebb539",
+      "contentType": "image/png",
+      "width": 447,
+      "height": 447,
+      "bytes": 9952,
+      "preserveOriginal": true
     }
   ]
 }
